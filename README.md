@@ -1,2 +1,1 @@
-# HTML_Foundations
-OdinProject
+#OdinProject
